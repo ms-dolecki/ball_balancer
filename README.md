@@ -1,4 +1,4 @@
-This repo is some code to calculate the inverse kinematics of and plot a ball-balancing system. Attempted cicular motion:
+This repo is some code to calculate the inverse kinematics of and plot a ball-balancing system. Attempted circular motion:
 
 ![kinematic_animation](https://github.com/user-attachments/assets/00fbb50a-d8cd-4fb6-9ed4-3c02b85634ce)
 
